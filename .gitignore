@@ -1,0 +1,14 @@
+/artifacts/
+/output/
+/dist/
+__pycache__/
+.DS_Store
+*.log
+*.jar
+*.class
+*.cmo3
+*.moc3
+*.model3.json
+*.psd
+.env
+.env.*
